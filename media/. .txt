@@ -1,0 +1,8 @@
+[
+    [zero, zero, zero, zero],
+    [zero, zero, zero, zero],
+    [zero, zero, zero, zero],
+    [zero, zero, zero, zero],
+    [zero, [-1/2, 0], [1, -1/2], zero],
+    [zero, [1/2, 0], [1, 1/2], zero],
+]
